@@ -30,7 +30,7 @@ export default function HomePage() {
           </Link>
 
           <Link
-            href="/signup"
+            href="/register"
             className="rounded-lg bg-white px-4 py-2 text-sm font-medium text-slate-950 hover:bg-slate-200"
           >
             Get Started
@@ -57,7 +57,7 @@ export default function HomePage() {
 
         <div className="mt-8 flex justify-center gap-4">
           <Link
-            href="/signup"
+            href="/register"
             className="flex items-center gap-2 rounded-lg bg-white px-6 py-3 font-medium text-slate-950 hover:bg-slate-200"
           >
             Create Account
